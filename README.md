@@ -4,4 +4,4 @@
 Responsive Web Design Certification <br>
 Progress: (1/8) <br>
 Completed: Basic HTML & HTML 5 (28/28) <br>
-Next: Basic CSS (0/44)
+Next: Basic CSS (21/44)
