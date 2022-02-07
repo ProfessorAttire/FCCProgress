@@ -1,7 +1,9 @@
 # FCCProgress
-<h1> Tracking My Progress in Free Code Camp </h1> <br> https://www.freecodecamp.org/ProfessorAttire
-
-Responsive Web Design Certification <br>
-Progress: (1/8) <br>
-Completed: Basic HTML & HTML 5 (28/28) <br>
-Next: Basic CSS (21/44)
+<h1> Tracking My Progress in Free Code Camp </h1> <br> 
+<h3> Responsive Web Design Certification -- Progress: (2/8) </h3> <br>
+Completed: <br>
+<ul>
+  <ol> Basic HTML & HTML 5 (28/28)✅ </ol>
+  <ol> Basic CSS (44/44)✅ </ol>
+</ul>
+Next: Applied Visual Design (0/52)
