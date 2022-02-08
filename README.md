@@ -1,5 +1,5 @@
 # FCCProgress
-<h1> Tracking My Progress in Free Code Camp </h1> <br> 
+<h1><strong> Tracking My Progress in Free Code Camp </strong></h1> <br> 
 <h3> Responsive Web Design Certification -- Progress: (2/8) </h3> <br>
 Completed: <br>
 <ul>
