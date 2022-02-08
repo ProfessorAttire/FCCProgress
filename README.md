@@ -6,4 +6,4 @@ Completed: <br>
   <ol> Basic HTML & HTML 5 (28/28)✅ </ol>
   <ol> Basic CSS (44/44)✅ </ol>
 </ul>
-Next: Applied Visual Design (0/52)
+Next: Applied Visual Design (11/52)
